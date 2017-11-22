@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\pre-dexed\all32\debug\com.android.support-support-v4-23.0.1_3a6e1eff165d8d69942a29eada93276f0e21cea9.jar" />
+    </item>
+    <item
+        jar="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\exploded-aar\ijkplayer\ijkplayer-armv5\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="820922a0330df8074ef506819b11b5dd073b225a">
+        <dex dex="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\pre-dexed\all32\debug\ijkplayer-ijkplayer-armv5-unspecified_597c99463a6c9d0bd1484f5fb4c398d3985155a4.jar" />
+    </item>
+    <item
+        jar="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer\r1.5.11\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0a919fdfb7808ff27b33e6e84ec990478abc9cf1">
+        <dex dex="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\pre-dexed\all32\debug\com.google.android.exoplayer-exoplayer-r1.5.11_c29e987e1d022d260f10160dfffa1dca63e4db7f.jar" />
+    </item>
+    <item
+        jar="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\pre-dexed\all32\debug\com.android.support-recyclerview-v7-23.0.1_2fc3c1c49a903cc91cfd2a7391cba76db83a3f82.jar" />
+    </item>
+    <item
+        jar="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\pre-dexed\all32\debug\com.android.support-appcompat-v7-23.0.1_9f37b153176f0a27df05bd5f95988cee40297e6d.jar" />
+    </item>
+    <item
+        jar="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\exploded-aar\ijkplayer\ijkplayer-x86\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7c77fa8a42df54b540bc16f89c6b28752d34bd84">
+        <dex dex="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\pre-dexed\all32\debug\ijkplayer-ijkplayer-x86-unspecified_8b034fdf336d00e2bc055e681902a2c2aa671bd3.jar" />
+    </item>
+    <item
+        jar="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\exploded-aar\ijkplayer\ijkplayer-armv7a\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d8bb2d0dd83ed7841102dc6a424521681010baf2">
+        <dex dex="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\pre-dexed\all32\debug\ijkplayer-ijkplayer-armv7a-unspecified_a87550d65b107cec47e48d4007385d73be57e0b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.8\cf615176cd1177edf71d3c9605f8dc148fede6be\otto-1.3.8.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\pre-dexed\all32\debug\otto-1.3.8_e9db0628aafd4857a0f5165f559642d620bd29bb.jar" />
+    </item>
+    <item
+        jar="D:\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\pre-dexed\all32\debug\support-annotations-23.0.1_9b5b63ac59568370a7003286f75db74e2711966b.jar" />
+    </item>
+    <item
+        jar="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\exploded-aar\com.android.support\preference-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e27d0df01afa01bd384f91a3c41998133e9235a0">
+        <dex dex="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\pre-dexed\all32\debug\com.android.support-preference-v7-23.0.1_815c84f87f8fc04fbb843edb91eb4f3ac623788d.jar" />
+    </item>
+    <item
+        jar="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\pre-dexed\all32\debug\internal_impl-23.0.1_4b72b9638f8e5ad1fadb370bc876f87ee3f49f10.jar" />
+    </item>
+    <item
+        jar="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\exploded-aar\ijkplayer\ijkplayer-exo\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="09dd4c6916fb49fd79a73ea9d5f10d0aba9ffd22">
+        <dex dex="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\pre-dexed\all32\debug\ijkplayer-ijkplayer-exo-unspecified_658473c1798d3191d480d76c57ce7a0f6f48bd0c.jar" />
+    </item>
+    <item
+        jar="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\exploded-aar\ijkplayer\ijkplayer-java\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f58381c4a08c80b7a1f77b9f611dd2dc0d0a0b2e">
+        <dex dex="E:\blog\ijkplayer\ijkplayer\ijkplayer-example\build\intermediates\pre-dexed\all32\debug\ijkplayer-ijkplayer-java-unspecified_770dbe05a9207d97a1a26719e30910c74d4b27a8.jar" />
+    </item>
+
+</items>
