@@ -1,3 +1,4 @@
 *.Makefile linguist-language=Java
 *.makefile linguist-language=java
 *.Makefile linguist-language=java
+*.makefile linguist-language=Java
